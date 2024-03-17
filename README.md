@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhimji&count_private=true&show_icons=true&theme=dark)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhimji&count_private=true&show_icons=true&theme=dark)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akhimji&theme=dark)](https://git.io/streak-stats)
-
+-->
 
 - 👯 I’m looking to collaborate on Go and ML (TF Deep Learning) projects
 
