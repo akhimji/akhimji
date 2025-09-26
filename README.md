@@ -3,7 +3,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=akhimji&theme=dark)](https://git.io/streak-stats)
 -->
 
-- 👯 I’m looking to collaborate on Go and ML (TF Deep Learning) projects
 
 <!--
 **akhimji/akhimji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
